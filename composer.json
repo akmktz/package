@@ -1,0 +1,21 @@
+{
+    "name": "akmktz/hello",
+    "description": "Test package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "akmktz",
+            "email": "closzxzx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "HelloWorld\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.1.3"
+    }
+}
