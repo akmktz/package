@@ -4,8 +4,8 @@ This is test package
 ## Install
 
 ```
-$ composer config repositories.smtpcheck path ../test
-$ composer require akmktz/hello:dev-master --prefer-source
+$ composer config repositories.hello vcs https://github.com/akmktz/package
+$ composer require akmktz/hello:dev-master
 ```
 
 ## Use
