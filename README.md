@@ -4,8 +4,8 @@ This is test package
 ## Install
 
 ```
-$ php composer config repositories.akmktz/hello vcs https://github.com/akmktz/package
-$ php composer require akmktz/hello:dev-master
+$ composer config repositories.akmktz/hello vcs https://github.com/akmktz/package
+$ composer require akmktz/hello:dev-master
 ```
 
 ## Use
